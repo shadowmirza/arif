@@ -1,0 +1,43 @@
+header{width: 100%; background: #336699; float: left;margin: 0 0 .5% 0;box-shadow: 5px 5px 10px #202020;}
+body {margin:0; padding:0; font-family: Merriweather,'Helvetica Neue',Arial,sans-serif; color: #333; font-size:16px; line-height: 1.8;}
+footer{width: 100%; background: #336699; float: left;margin: 0 0 .5% 0; box-shadow: 5px 5px 10px #202020; margin-top: 50px;color: #ffffff;}
+h1,h2,h3,h4,h5,p {font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; text-align: center;}
+.container-header{width: 98.4%;padding-right:15px; padding-left:15px; margin-right:auto; margin-left:auto;}
+.container-body{width: 1600px;padding-right:15px; padding-left:15px; margin-right:auto; margin-left:auto; margin-top: 50px;}
+.container-body-img{width:98.4%;padding-right:15px; padding-left:15px; margin-right:auto; margin-left:auto; margin-top: 50px;}
+.container-footer{width: 1600px;padding-right:15px; padding-left:15px; margin-right:auto; margin-left:auto; margin-top: 50px;}
+.fixed{width: 100%; top: 0; left: 0; position: fixed;}
+.col-md-1-b{width: 20%; margin:0; padding: 0; float: left;}
+.col-md-1{width: 20%; margin:0; padding: 0; float: left;}
+.col-md-5{width: 98.4%; margin:0; padding: 0; float: left;}
+.col-md-6{width: 32%; margin:0; padding: 0; float: left;}
+.col-md-7{width: 35%; margin:0; padding: 0; float: left;}
+.col-md-8{width: 32%; margin:0; padding: 0; float: left;}
+.col-lg-1{width: 25%; margin:0; padding: 0; float: left;}
+.circular{width: 20%; height: 15%; border-radius:20%; -webkit-border-radius:60px; -moz-border-radius:60px; padding: 10px 0; margin: 0 auto; 
+display: block;}
+/*
+.bg-home{background-color:#507cbe; }
+.bg-galery{background-color:#63cdf1; }
+.bg-about{background-color:#c7c5b3; }
+.bg-kontak{background-color:#f16261; }
+*/
+.bg-body{background:url(file:///C|/Users/ARIF/Desktop/AM_Resume/img/bg.jpg) no-repeat center center; height: 1027px;}
+.fix-pos{margin-top:12%; margin-left: 2%; color: #a99687; font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; line-height: 1.8;
+font-size: 36px;}
+.h-pos{text-align: center; font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; line-height: 1.8; font-size: 48px;}
+.pp-image img{ width:40%; margin-left:10%; margin: 0 auto; display: block; -webkit-background-clip: padding-box;-webkit-border-radius: 215px;
+-moz-background-clip:padding-box; border-radius: 215px;-webkit-background-clip: padding-box;background-clip: padding-box; overflow:hidden;}
+.pp-name { text-align:center; font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; font-size:16px; 
+display:block; margin-top:30px; margin: 0 auto;}
+.pp-title { text-align:center; font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; font-size:16px; display:block; margin-top:5px; 
+color:#999; margin: 0 auto;}
+.hero-feature { margin-bottom:30px;}
+.clear{clear: both;}
+.kotak-image img { width: 95%; margin-left: 10%; margin: 0 auto; display: block;  -webkit-background-clip: padding-box;-webkit-border: 215px;
+-moz-background-clip:padding-box; border: 215px;-webkit-background-clip: padding-box;background-clip: padding-box; overflow:hidden; 
+border: 3px solid #c7c5b3; margin-top: 50px;}
+.format-text-footer{ text-align:justify; font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; font-size: 14px;}
+.format-text-footer2{text-align:justify; font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; font-size: 14px;}
+.format-text-footer3{text-align:center; font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; font-size: 14px;}
+.f-pos{text-align: center; font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif; line-height: 1.8; font-size: 21px; margin-top: 50px;}
