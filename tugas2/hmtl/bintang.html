@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <input id="bintang" type="text">  
+        <input type="submit" onclick="cetak()">
+        <script type="text/javascript">  
+            function cetak() {  
+                var num=document.getElementById("bintang").value,  
+                    hasil = "";  
+              
+                if(num==""||isNaN(num))  
+                {  
+                    alert("Harus Angka Bro");  
+                }  
+                else {  
+                    for ( var i = 0;  i < num;  i++) {  
+                        for ( var  j = 0;  j <=  i;  j++) {  
+                            hasil+="*";  
+                        }  
+                        hasil+="</br>";   
+                    }  
+                    document.getElementById("print").innerHTML = hasil;  
+                }  
+            }  
+        </script>  
+        <p id="print"></p>
+    </body>
+</html>
